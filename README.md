@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+BE - CSE student
+👯 Would love to collaborate on the Web Development projects
+💬 Ask me about programming related questions
+📫 Connect with me on LinkedIn
 <!--
 **aaryan-gupta/aaryan-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
