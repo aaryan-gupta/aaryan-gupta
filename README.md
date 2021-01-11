@@ -1,6 +1,6 @@
 ### Hi there 👋
-BE - CSE student
-👯 Would love to collaborate on the Web Development projects
+BE - CSE student <br>
+👯 Would love to collaborate on the Web Development projects <br>
 💬 Ask me about programming related questions
 📫 Connect with me on LinkedIn
 <!--
