@@ -2,7 +2,7 @@
 BE - CSE student <br>
 👯 Would love to collaborate on the Web Development projects <br>
 💬 Ask me about programming related questions <br>
-📫 Connect with me on <a href="https://linkedin.com/in/aaryan--gupta">LinkedIn</a> <br><br>
+📫 Connect with me on <a href="https://linkedin.com/in/aaryan--gupta" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/linkedin.svg" height="20" width="30" /></a> <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&include_all_commits=true&theme=dracula" alt="Aaryan's github stats" />
 <!--
 **aaryan-gupta/aaryan-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
