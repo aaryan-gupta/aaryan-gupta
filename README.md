@@ -20,9 +20,9 @@
 <table width="100%">
   <tr>
     <td>
-      <img height="280rem" src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&hide_border=true&theme=radical" />
+      <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&hide_border=true&theme=radical" />
     </td>
     <td>
-      <img height="280rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-gupta&show_icons=true&hide_border=true&langs_count=8&theme=radical" /> </td>
+      <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-gupta&show_icons=true&hide_border=true&langs_count=8&theme=radical" />         </td>
   </tr>
 <table>
