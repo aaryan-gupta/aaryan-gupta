@@ -5,6 +5,7 @@
 - 🌱 Want to learn everything
 - 💬 Ask me about programming related questions
 - 📫 Connect with me on <a href="https://linkedin.com/in/aaryan--gupta" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/linkedin.svg" height="20" width="30" /></a><br />
+- <img src="https://komarev.com/ghpvc/?username=aaryan-gupta&style=plastic&label=PROFILE+VIEWS&color=red" />
 ---
 <!-- ## Tools & Technologies
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
