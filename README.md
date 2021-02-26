@@ -80,12 +80,16 @@
   </a>
   
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   </a>
   
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
   </a>
+  
+  <!-- <a href="https://github.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="50" height="50" />
+  </a> -->
 </p>
 <hr />
 <img src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&hide_border=true&theme=radical" />
