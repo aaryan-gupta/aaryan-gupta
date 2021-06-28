@@ -38,7 +38,18 @@
 
 ---
 
-![image](https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=radical) &nbsp;
-![image](https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical)
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=radical" />
+		</td>
+		<td>
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical" />
+		</td>
+	</tr>
+</table>
+
+<!-- ![image](https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=radical) -->
+<!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical) -->
 
 ![Aaryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=aaryan-gupta&theme=react-dark&area=true)
