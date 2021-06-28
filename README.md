@@ -38,16 +38,8 @@
 
 ---
 
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=radical" />
-		</td>
-		<td>
-			<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical" />
-		</td>
-	</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical" />
 
 <!-- ![image](https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=radical) -->
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical) -->
