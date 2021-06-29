@@ -40,7 +40,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-gupta&layout=compact" />
+<!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-gupta&layout=compact) -->
 <!-- ![image](https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=radical) -->
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical) -->
 
