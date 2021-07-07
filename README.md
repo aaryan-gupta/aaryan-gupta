@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey There 👋
 
 ## BE - CSE Student
 
