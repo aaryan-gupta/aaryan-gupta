@@ -3,6 +3,7 @@
 ## BE - CSE Student
 
 -   👯 Would love to collaborate on the **Web Development** projects
+-   🎯 Currently working on JAVA
 -   🌱 Want to learn **Everything**
 -   💬 Ask me about **Programming** related queries
 
