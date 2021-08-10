@@ -44,7 +44,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=aaryan-gupta&show_icons=true&locale=en&theme=prussian" />
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-gupta&theme=prussian" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-gupta&langs_count=8&theme=prussian" />
     </td>
   <tr>
     <td>
