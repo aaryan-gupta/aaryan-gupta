@@ -4,7 +4,7 @@
 
 -   👯 Would love to collaborate on the **Web Development** projects
 -   🎯 Currently working on **JAVA**
--   🌱 Want to learn **Everything**
+<!-- -   🌱 Want to learn **Everything** -->
 -   💬 Ask me about **Programming** related queries
 
 -   📫 Connect with me on &nbsp; [![image](https://img.shields.io/badge/AARYAN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan--gupta)
