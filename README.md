@@ -2,15 +2,15 @@
 
 ## BE - CSE Student
 
--   👯 Would love to collaborate on the **Web Development** projects
--   🎯 Currently working on **JAVA**
+<!-- -   👯 Would love to collaborate on the **Web Development** projects -->
+-   🎯 Currently working on **JAVA & Python**
 <!-- -   🌱 Want to learn **Everything** -->
 -   💬 Ask me about **Programming** related queries
 
 -   📫 Connect with me on &nbsp; [![image](https://img.shields.io/badge/AARYAN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan--gupta)
 -   ![image](https://komarev.com/ghpvc/?username=aaryan-gupta&label=Profile%20views&color=0e75b6&style=flat-square)
 
----
+<!-- ---
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,9 +35,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) -->
 
 ---
+
 <table>
   <tr>
     <td>
