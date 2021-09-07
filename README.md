@@ -1,6 +1,6 @@
 # Hey There 👋
 
-## BE - CSE Student
+### BE - CSE Student
 
 <!-- -   👯 Would love to collaborate on the **Web Development** projects -->
 -   🎯 Currently working on **JAVA & Python**
